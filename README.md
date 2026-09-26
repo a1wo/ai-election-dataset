@@ -51,3 +51,11 @@ writes the per-video verdicts. Detector errors count as wrong answers.
 ```bash
 python3 -m unittest discover tests      # self-test with a fake API
 ```
+
+## Shared-Drive copy
+
+`python3 scripts/make_drive.py` builds `drive/`: the 20 sample videos with
+readable file names plus `sample.xlsx`, and for `full/` only spreadsheets
+(`AI`, `Old Commercials`, `Old Elections videos` — title, year, channel, party,
+link, note). The spreadsheets are committed; the sample videos are not
+(`drive/sample/` is gitignored, they are the same files as `sample/`).

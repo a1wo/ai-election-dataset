@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 report.json
 .DS_Store
+drive/sample/
