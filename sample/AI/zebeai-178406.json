@@ -1,0 +1,34 @@
+{
+  "category": "ai-ads",
+  "year": 2026,
+  "region": "israel",
+  "query": "curated",
+  "id": "zebeai-178406",
+  "source": "zebeai",
+  "note": "הסרטון פורסם ברשתות במקור, כאן בעיבוד AI",
+  "url": "https://zebeai.info/content/178406",
+  "source_url": "https://www.instagram.com/reel/DcZB4uvsjov/",
+  "media_url": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/178406/video.mp4",
+  "thumbnail": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/178406/poster.jpg",
+  "title": "כשנפגשים עם המציאות. ",
+  "description": "כשנפגשים עם המציאות. \n\nגם איזנקוט יודע שאין לו ממשלה בלי יאיר גולן ועבאס שיקימו מדינה פלסטינית - אסור לתת לזה לקרות >>",
+  "ocr_text": null,
+  "channel": "בנימין נתניהו",
+  "party": "הליכוד",
+  "platform": "instagram",
+  "upload_date": "20260823",
+  "verification": {
+    "status": "human_verified",
+    "aiUseType": null,
+    "markingStatus": null,
+    "reviewedAt": "2026-08-24T08:15:53.170043+00:00"
+  },
+  "engagement": {
+    "capturedAt": "2026-08-23T17:37:14+00:00",
+    "likes": 1712,
+    "comments": 532,
+    "shares": null
+  },
+  "label": "ai",
+  "video_file": "zebeai-178406.mp4"
+}

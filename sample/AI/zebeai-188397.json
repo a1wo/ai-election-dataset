@@ -1,0 +1,34 @@
+{
+  "category": "ai-ads",
+  "year": 2026,
+  "region": "israel",
+  "query": "curated",
+  "id": "zebeai-188397",
+  "source": "zebeai",
+  "note": "שלט החוצות של הרב עובדיה על רקע עזריאלי וצומת קפלן",
+  "url": "https://zebeai.info/content/188397",
+  "source_url": "https://www.instagram.com/reel/Dcqs-n6gG_g/",
+  "media_url": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/188397/video.mp4",
+  "thumbnail": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/188397/poster.jpg",
+  "title": "די לפגיעה במורשת מרן. די לפגיעה ביהדות.",
+  "description": "די לפגיעה במורשת מרן. די לפגיעה ביהדות.",
+  "ocr_text": null,
+  "channel": "ש\"ס",
+  "party": "ש\"ס",
+  "platform": "instagram",
+  "upload_date": "20260830",
+  "verification": {
+    "status": "human_verified",
+    "aiUseType": null,
+    "markingStatus": null,
+    "reviewedAt": "2026-08-30T18:52:00.697489+00:00"
+  },
+  "engagement": {
+    "capturedAt": "2026-08-30T14:15:42+00:00",
+    "likes": 31,
+    "comments": 8,
+    "shares": null
+  },
+  "label": "ai",
+  "video_file": "zebeai-188397.mp4"
+}

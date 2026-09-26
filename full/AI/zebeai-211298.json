@@ -1,0 +1,34 @@
+{
+  "category": "ai-ads",
+  "year": 2026,
+  "region": "israel",
+  "query": "curated",
+  "id": "zebeai-211298",
+  "source": "zebeai",
+  "note": "ללא סימון",
+  "url": "https://zebeai.info/content/211298",
+  "source_url": "https://www.tiktok.com/@yairgolan_/video/7683865452845796628",
+  "media_url": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/211298/video.mp4",
+  "thumbnail": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/211298/poster.jpg",
+  "title": "לא תאמינו מה יש במסך השני",
+  "description": "לא תאמינו מה יש במסך השני",
+  "ocr_text": "🤫 🤫 הצצה בלעדית לאימון החדש",
+  "channel": "יאיר גולן",
+  "party": "הדמוקרטים",
+  "platform": "tiktok",
+  "upload_date": "20260910",
+  "verification": {
+    "status": "human_verified",
+    "aiUseType": null,
+    "markingStatus": null,
+    "reviewedAt": "2026-09-14T14:30:51.098814+00:00"
+  },
+  "engagement": {
+    "capturedAt": "2026-09-10T11:23:20+00:00",
+    "likes": 218,
+    "comments": 41,
+    "shares": null
+  },
+  "label": "ai",
+  "video_file": null
+}

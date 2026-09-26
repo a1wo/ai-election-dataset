@@ -1,0 +1,34 @@
+{
+  "category": "ai-ads",
+  "year": 2026,
+  "region": "israel",
+  "query": "curated",
+  "id": "zebeai-226293",
+  "source": "zebeai",
+  "note": "אינסרט של נתניהו בתוך סרטון שמורכב מקטעי דוקו",
+  "url": "https://zebeai.info/content/226293",
+  "source_url": "https://x.com/yairgolan1/status/2100559297474138229",
+  "media_url": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/226293/video.mp4",
+  "thumbnail": "https://storage.googleapis.com/synthetic-propaganda-il-2026-post-media/posts/226293/poster.jpg",
+  "title": "הימים הנוראים עומדים להסתיים",
+  "description": "הימים הנוראים עומדים להסתיים",
+  "ocr_text": "הימים\nהנוראים\n\nטוב לשוב ברגע [?]\n\nנפרדים\nלה [?]\nב-27.10\n\nהדמוקרטים\nיאיר גולן",
+  "channel": "יאיר גולן",
+  "party": "הדמוקרטים",
+  "platform": "x",
+  "upload_date": "20260917",
+  "verification": {
+    "status": "human_verified",
+    "aiUseType": null,
+    "markingStatus": null,
+    "reviewedAt": "2026-09-20T12:24:12.393902+00:00"
+  },
+  "engagement": {
+    "capturedAt": "2026-09-17T12:15:37+00:00",
+    "likes": 287,
+    "comments": 32,
+    "shares": null
+  },
+  "label": "ai",
+  "video_file": "zebeai-226293.mp4"
+}
